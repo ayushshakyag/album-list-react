@@ -206,6 +206,26 @@ button {
   border: 3px solid #555;
 }
 
+#aaform-userid-inp{
+  border: none;
+  border-bottom: 2px solid #555;
+  border-radius: 6px;
+}
+
+#aaform-userid-inp:focus{
+  border: 3px solid #555;
+}
+
+#aaform-title-inp{
+  border: none;
+  border-bottom: 2px solid #555;
+  border-radius: 6px;
+}
+
+#aaform-title-inp:focus{
+  border: 3px solid #555;
+}
+
 
 
 /* Form Submit Button Style */
